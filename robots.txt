@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eibahveex.jamesrobertpratt.com/sitemap.xml
